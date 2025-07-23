@@ -24,7 +24,7 @@ Our approach demonstrates **emergent coordination** through:
 
 ### Key Innovations
 
-1. **LLM-Powered Strategic Reasoning**: Each agent uses GPT-3.5-turbo for sophisticated negotiation and bidding strategies
+1. **LLM-Powered Strategic Reasoning**: Each agent uses GPT-4o for sophisticated negotiation and bidding strategies
 2. **Trust-Penalty Bidding**: Dishonest agents face exponential bid effectiveness penalties (up to 99% reduction)
 3. **Emergent Coalition Dynamics**: Temporary alliances form and dissolve based on strategic needs
 4. **Memory-Driven Adaptation**: Agents remember past interactions and adapt strategies accordingly
